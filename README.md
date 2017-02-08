@@ -1,2 +1,2 @@
-# bestofxworld.com
-The Repository for the YouTube channel Best of X - World
+# BEST OF X - WORLD
+## The Repository for the YouTube channel [bestofxworld](https://www.youtube.com/channel/UC7NSbQVKtQllIvVo0-hlMvQ)
